@@ -11,6 +11,3 @@ Python机器学习基础教程中文Notebook
 2. 敲入`jupyter notebook`(前提是安装了，Anaconda发行版python自带ipynb)
 3. 打开浏览器：`localhost:8888`
 
-更新内容
-
-- 第一章-鸢尾花分类-KNN(2019-05-03)
